@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/whitezen-ctrl/plento-education">
-    <img src="assets/images/plento-logo-121x123.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/capture.png" alt="Logo">
   </a>
 
   <h3 align="center">Plento - Educt</h3>
@@ -30,22 +30,6 @@
     <a href="https://instagram.com/plento2web">Instagram</a>
   </p>
 </p>
-
-
-
-
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-<br />
-<p align="center">
-  <a href="https://github.com/whitezen-ctrl/plento-education">
-    <img src="https://github.com/whitezen-ctrl/assets/images/whitezen-ctrl-2021.stl">
-  </a>
-
-(https://github.com/whitezen-ctrl/plento-education/assets/images/whitezen-ctrl-2021.stl)(https://github.com/whitezen-ctrl/plento-education/assets/images/capture.png)
 
 
 
@@ -114,7 +98,7 @@ Lien du projet: [https://github.com/whitezen-ctrl/plento-education](https://gith
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Merci a :
 
 * [Zelly](https://github.com/ZelliDev)
 * [Othneildrew](https://github.com/othneildrew)
