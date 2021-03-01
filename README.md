@@ -6,13 +6,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -46,6 +39,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<br />
+<p align="center">
+  <a href="https://github.com/whitezen-ctrl/plento-education">
+    <img src="assets/images/whitezen-ctrl-2021.stl">
+  </a>
 
 (https://github.com/whitezen-ctrl/plento-education/assets/images/whitezen-ctrl-2021.stl)(https://github.com/whitezen-ctrl/plento-education/assets/images/capture.png)
 
