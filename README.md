@@ -42,7 +42,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/whitezen-ctrl/plento-education">
-    <img src="assets/images/whitezen-ctrl-2021.stl">
+    <img src="https://github.com/whitezen-ctrl/assets/images/whitezen-ctrl-2021.stl">
   </a>
 
 (https://github.com/whitezen-ctrl/plento-education/assets/images/whitezen-ctrl-2021.stl)(https://github.com/whitezen-ctrl/plento-education/assets/images/capture.png)
