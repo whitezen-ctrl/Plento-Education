@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/whitezen-ctrl/plento-education">
-    <img src="assets/images/capture.png" alt="Logo">
+    <img src="assets/images/plento-logo-121x123.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Plento - Educt</h3>
